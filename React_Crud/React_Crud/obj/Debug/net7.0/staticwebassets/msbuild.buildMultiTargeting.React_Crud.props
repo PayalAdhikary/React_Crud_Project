@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\React_Crud.props" />
+</Project>
